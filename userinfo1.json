@@ -1,0 +1,32 @@
+{
+     "Sr No.": [
+          "1",
+          "2",
+          "3",
+          "4"
+     ],
+     "Name": [
+          "saksham",
+          "",
+          "",
+          ""
+     ],
+     "Age": [
+          "19",
+          "",
+          "",
+          ""
+     ],
+     "Gender": [
+          "Male",
+          "Select",
+          "Select",
+          "Select"
+     ],
+     "Id Proof": [
+          "Pan card",
+          "Select",
+          "Select",
+          "Select"
+     ]
+}
